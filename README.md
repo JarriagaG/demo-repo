@@ -7,3 +7,7 @@ I changed this line
 ## Subheader
 
 Watch tutorial.
+
+## Local Development
+
+1. Open indexhtml in your browser. Final.
