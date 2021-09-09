@@ -10,4 +10,4 @@ Watch tutorial.
 
 ## Local Development
 
-1. Open indexhtml in your browser.s
+1. Open indexhtml in your browser.sa
